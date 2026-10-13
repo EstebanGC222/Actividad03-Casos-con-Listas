@@ -1,4 +1,3 @@
-:- encoding(utf8).
 % Hechos: listas de hombres y mujeres
 hombres([abraham, clancy, herbert, homero, bart]).
 mujeres([mona, jacqueline, marge, patty, selma, lisa, maggie, ling]).
