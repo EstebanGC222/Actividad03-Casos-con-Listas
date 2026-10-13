@@ -1,4 +1,3 @@
-:- encoding(utf8).
 % Hechos: ciudad(Nombre, ListaDeAristas)
 % Cada arista es una estructura: arista(Destino, Costo)  -- grafo dirigido
 ciudad(vancouver, [arista(edmonton, 16), arista(calgary, 13)]).
